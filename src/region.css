@@ -1,0 +1,13 @@
+.region-list {
+  color: white;
+  background-color: #1a1a2e;
+  display: grid;
+  border-radius: 10px;
+}
+il {
+  margin: 2px;
+  background-color: #083358;
+  border-radius: 5px;
+  height: 40px;
+  padding: 8px;
+}

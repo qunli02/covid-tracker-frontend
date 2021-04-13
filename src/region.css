@@ -11,3 +11,7 @@ il {
   height: 40px;
   padding: 8px;
 }
+
+.flex {
+  display: flex;
+}

@@ -8,7 +8,7 @@ function Region() {
         <il>Canda</il>
       </ul>
       <div>
-        <div>sdsd</div>
+        <div className="country">sdsd</div>
         <div>sdjksn</div>
       </div>
     </div>

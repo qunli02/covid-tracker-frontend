@@ -15,3 +15,10 @@ il {
 .flex {
   display: flex;
 }
+
+.country {
+  margin: 16px;
+  background-color: #083358;
+  border-radius: 10px;
+  height: 300px;
+}

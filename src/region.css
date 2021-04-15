@@ -1,3 +1,9 @@
+.region {
+  width: 100%;
+}
+.right {
+  width: 100%;
+}
 .region-list {
   color: white;
   background-color: #1a1a2e;
